@@ -8,7 +8,7 @@
 
 #import "TFSliderView.h"
 #import "UIImage+InvertColor.h"
-#import <POP.h>
+#import <pop/POP.h>
 
 
 @interface TFSliderView ()
