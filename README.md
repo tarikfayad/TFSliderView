@@ -12,7 +12,7 @@ pod "TFSliderView", "~> 0.1.0"
 
 ##Example Image
 <p align="center" >
-  <img src="http://i.imgur.com/o0qSWTr.gifv" alt="TFSlider" title="TFSlider">
+  <img src="http://i.imgur.com/o0qSWTr.gif" alt="TFSlider" title="TFSlider">
 </p>
 
 ##To Dos
